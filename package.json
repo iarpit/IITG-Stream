@@ -1,0 +1,12 @@
+{
+  "name": "MySite",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "node-regexp": "*",
+    "body-parser":"*",
+    "split":"*",
+    "stream-transcoder":"*",
+    "express":"*"
+  }
+}
