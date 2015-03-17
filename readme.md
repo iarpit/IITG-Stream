@@ -19,4 +19,3 @@ Setup:
 7. Click on the available files to stream
 
 Please share some files
-If there are any errors
