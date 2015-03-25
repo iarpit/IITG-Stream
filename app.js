@@ -30,6 +30,7 @@ app.get('/downloads',function(req,res){
 	for(var i=0;i<data.length;i++)
 	{
 		console.log(data[i]);
+		data[i]=data[i].trim();
 		var files=fs.readdirSync(data[i]);
 			 
 		var directory=data[i];
